@@ -3,6 +3,8 @@ Author: philip0000000
 <br>
 A very simple image viewer 100 lines of python 3 code
 <br>
+Can open .png and .jpg
+<br>
 <br>
 Usage:
 <br>

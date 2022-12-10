@@ -1,5 +1,5 @@
 # simple-image-viewer
-Author: philip00000000
+Author: philip0000000
 <br>
 A very simple image viewer 100 lines of python 3 code
 <br>

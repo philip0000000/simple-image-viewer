@@ -17,4 +17,4 @@ use h key to hide or show title bar of the window
 esc key to quit program
 <br>
 <br>
-![assignments](test.png "example")
+![assignments](test_.png "example")

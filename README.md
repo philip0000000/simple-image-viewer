@@ -1,10 +1,8 @@
 # simple-image-viewer
-simple image viewer in python
-
 Author: philip00000000
 <br>
-<br>
 a very simple image viewer 100 lines of python 3 code
+<br>
 <br>
 Usage:
 <br>

@@ -5,6 +5,8 @@ A very simple image viewer 100 lines of python 3 code
 <br>
 Can open .png and .jpg
 <br>
+Works on Windows 10
+<br>
 <br>
 Usage:
 <br>

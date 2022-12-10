@@ -1,7 +1,7 @@
 # Author: philip00000000
 
 # simple image viewer
-# Can open .png and .jpgC:\MyPrograms\test3
+# Can open .png and .jpg
 # Usage:
 # use arrow key left and right to change image
 # use h key to hide or show title bar of the window
